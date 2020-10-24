@@ -6,9 +6,19 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="SimpleFunctions.fs" />
-        <Compile Include="Program.fs" />
-        <Content Include="TaskDescription.md" />
+        <Compile Include="Homework2.fs" />
+        <Compile Include="CliColors.fs" />
+        <Compile Include="CliReflection.fs" />
+        <Compile Include="CliValueConversion.fs" />
+        <Compile Include="ArgumentParser.fs" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Argu" Version="6.1.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Update="FSharp.Core" Version="5.0.0" />
     </ItemGroup>
 
 </Project>

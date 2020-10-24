@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SimpleFunctionsCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "--task-number 2 2"
+    }
+  }
+}
