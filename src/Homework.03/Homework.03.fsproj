@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework._03</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="MatrixFunctions.fs" />
+        <Compile Include="FibonacciSimple.fs" />
+        <Compile Include="FibonacciAdditional.fs" />
+        <Compile Include="Program.fs" />
+    </ItemGroup>
+
+</Project>
