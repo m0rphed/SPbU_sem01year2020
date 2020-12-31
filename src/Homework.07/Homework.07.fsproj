@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework._07</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="MyList.fs" />
+        <Compile Include="MyTree.fs" />
+    </ItemGroup>
+
+</Project>
