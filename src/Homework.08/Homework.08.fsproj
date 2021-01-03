@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>Homework._08</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Compile Include="QuadTreeTypes\SquareRegion.fs" />
+        <Compile Include="QuadTree.fs" />
+        <Compile Include="SparseMatrixQuadTree.fs" />
+        <Compile Include="Main.fs" />
+    </ItemGroup>
+
+</Project>
